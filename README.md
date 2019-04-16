@@ -1,2 +1,7 @@
 # Python-Contact-Diary
-Contact list 
+Contact Diary
+
+It is a simple command line app written in python 
+
+Features:
+Save your contact details
